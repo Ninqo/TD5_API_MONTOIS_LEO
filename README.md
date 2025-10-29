@@ -29,11 +29,17 @@ Dans le fichier *routes* on retrouve un fichier **ts** nommé *user.routes.ts*.
 
 ### Fonctionnement
 
-  
-
 <img width="873" height="737" alt="image" src="https://github.com/user-attachments/assets/cc94be34-c040-4b86-a407-392618542918" />
 
 
+Sur cette capture d'écran on peut voir que lorsque l'on fait une requête de type *get* avec l'adresse 4000 on reçoit une réponse avec un affichage de liste d'utilisateur.
+
 <img width="902" height="746" alt="image" src="https://github.com/user-attachments/assets/5e603e37-584f-4527-91a1-3099eabe62cf" />
 
+
+Maintenant on rajoute un nouvel utilisateur avec la requête *post* ici on rajoute l'utilisateur du nom d'alice et son adresse email.
+
 <img width="876" height="846" alt="image" src="https://github.com/user-attachments/assets/0214faac-6faa-4dd1-811a-fa9758b28c19" />
+
+
+Voila le résultat obtenu maintenant avec la requete *get*.
